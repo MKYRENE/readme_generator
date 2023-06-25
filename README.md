@@ -12,6 +12,12 @@ The README Generator is a command-line application that quickly creates a profes
 - [Tests](#tests)
 - [Questions](#questions)
 
+## Screen Shot 
+![website screenshot](./README_Results/assets/Screenshot%202023-06-25%20at%205.57.31%20PM.png)
+
+## README Generator Demonstration Video (Google Drive Link):
+Google Drive URL: https://drive.google.com/file/d/1DOvikWazv19rB1je7D8iUY5xc2Vps4sO/view?usp=sharing
+
 ## Installation
 To install the README Generator, follow these steps:
 1. Clone the repository to your local machine.
